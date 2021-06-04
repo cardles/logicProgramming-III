@@ -1,0 +1,15 @@
+{
+  "name": "reprograma-s4-exercicio-logica-aplicada-ii",
+  "version": "1.0.0",
+  "description": "",
+
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
