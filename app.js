@@ -48,18 +48,8 @@ if(qualCategoriaListaTodos === '1') {
 
 } else {
 
-    console.log('Esses são todos os livros disponíveis:')
+    console.log('Entrada inválida. Esses são todos os livros disponíveis:')
     console.table(livrosGeral)
     console.log('Obrigade, volte sempre!')
 
 }
-
-
-
-
-
-
-
-
-
-
